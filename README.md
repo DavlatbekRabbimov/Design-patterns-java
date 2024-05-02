@@ -1,1 +1,1 @@
-# Design-patterns-java
+# Design-patterns-java FOR EDUCATION
